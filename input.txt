@@ -1,0 +1,2 @@
+integer, parameter :: Nx=256, Ny=32
+real, parameter :: Lx=10.0, Ly=1.0
